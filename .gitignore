@@ -1,0 +1,11 @@
+# 로컬 DB와 생성된 PDF (내부용 PDF에는 Cost·Profit이 들어 있음)
+data/
+
+# 파이썬 캐시 / 테스트 캐시
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 에디터·도구 설정
+.claude/
+.venv/
